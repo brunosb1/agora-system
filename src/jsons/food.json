@@ -1,0 +1,51 @@
+[
+    {
+      "statusLabel": "Traditional Dish",
+      "title": "Bacalhau à Brás",
+      "pillLabel": "Food",
+      "description":
+        "O Bacalhau à Brás é um prato clássico da culinária portuguesa, feito com bacalhau desfiado, batatas fritas cortadas em palha, ovos mexidos e temperado com salsa e azeitonas. É uma combinação simples, mas deliciosa, que reflete o amor dos portugueses por este peixe versátil.",
+      "mainAnchor": {
+        "children": "Leia mais",
+        "href": "https://www.pingodoce.pt/receitas/coleccoes/pratos-portugueses/",
+        "target": "_blank"
+      }
+    },
+    {
+      "statusLabel": "Traditional Dessert",
+      "title": "Pastéis de Nata",
+      "pillLabel": "Food",
+      "description":
+        "Os Pastéis de Nata, ou Pastéis de Belém, são pequenos doces à base de massa folhada e creme de ovos, com uma cobertura levemente caramelizada. São servidos quentes, polvilhados com canela e açúcar, e são um verdadeiro símbolo da doçaria portuguesa.",
+      "mainAnchor": {
+        "children": "Leia mais",
+        "href": "https://www.pingodoce.pt/receitas/coleccoes/pratos-portugueses/",
+        "target": "_blank"
+      }
+    },
+    {
+      "statusLabel": "Porto Specialty",
+      "title": "Francesinha",
+      "pillLabel": "Food",
+      "description":
+        "A Francesinha é um sanduíche robusto típico do Porto, recheado com carnes diversas, coberto com queijo derretido e regado com um molho picante à base de tomate e cerveja. É servido acompanhado de batatas fritas e, muitas vezes, um ovo por cima.",
+      "mainAnchor": {
+        "children": "Leia mais",
+        "href": "https://www.pingodoce.pt/receitas/coleccoes/pratos-portugueses/",
+        "target": "_blank"
+      }
+    },
+    {
+        "statusLabel": "Porto Specialty",
+        "title": "Caldo Verde",
+        "pillLabel": "Food",
+        "description":
+          "A Francesinha é um sanduíche robusto típico do Porto, recheado com carnes diversas, coberto com queijo derretido e regado com um molho picante à base de tomate e cerveja. É servido acompanhado de batatas fritas e, muitas vezes, um ovo por cima.",
+        "mainAnchor": {
+          "children": "Leia mais",
+          "href": "https://www.pingodoce.pt/receitas/coleccoes/pratos-portugueses/",
+          "target": "_blank"
+        }
+      }
+  ]
+

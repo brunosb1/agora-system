@@ -1,0 +1,46 @@
+[
+    {
+      "statusLabel": "success",
+      "title": "Porto e o Rio Douro",
+      "pillLabel": "Lugares",
+      "description": "Porto, uma cidade vibrante e cheia de charme, é um verdadeiro tesouro de cultura e beleza. Caminhar pelas margens do Rio Douro oferece vistas de tirar o fôlego das casas coloridas e das pontes icônicas. Não deixe de visitar as caves de vinho do Porto e experimentar essa famosa bebida local. Porto combina história rica, culinária excepcional e uma atmosfera acolhedora que faz qualquer visitante querer voltar.",
+      "mainAnchor": {
+          "children": "Leia mais",
+          "href": "https://www.pingodoce.pt/receitas/coleccoes/pratos-portugueses/",
+          "target": "_blank"
+        }
+    },
+    {
+      "statusLabel": "success",
+      "title": "Torre de Belém, Lisboa",
+      "pillLabel": "Lugares",
+      "description": "A Torre de Belém, um dos monumentos mais emblemáticos de Lisboa, é um convite para mergulhar na história da era dos Descobrimentos. Imagine-se admirando as águas do Tejo enquanto explora a torre com seus detalhes arquitetônicos impressionantes. Seja para uma foto inesquecível ou para sentir a brisa do rio, este lugar é um must para todos que visitam a capital portuguesa.",
+      "mainAnchor": {
+          "children": "Leia mais",
+          "href": "https://www.pingodoce.pt/receitas/coleccoes/pratos-portugueses/",
+          "target": "_blank"
+        }
+    },
+    {
+      "statusLabel": "success",
+      "title": "Ponta da Piedade, Lagos",
+      "pillLabel": "Lugares",
+      "description": "A Ponta da Piedade, com suas formações rochosas dramáticas e águas cristalinas, é um paraíso natural no Algarve. Este é o lugar perfeito para quem busca paz e beleza natural. Faça um passeio de barco ou caiaque para explorar as grutas e arcos esculpidos pelo mar. É impossível não se apaixonar pelo cenário deslumbrante que combina céu azul, águas calmas e falésias douradas.",
+      "mainAnchor": {
+          "children": "Leia mais",
+          "href": "https://www.pingodoce.pt/receitas/coleccoes/pratos-portugueses/",
+          "target": "_blank"
+        }
+    },
+    {
+      "statusLabel": "success",
+      "title": "Palácio Nacional da Pena, Sintra",
+      "pillLabel": "Lugares",
+      "description": "Visitar o Palácio da Pena é como entrar em um conto de fadas. Situado no topo de uma colina em Sintra, este palácio colorido combina estilos arquitetônicos que vão desde o gótico até o renascentista. Além da sua beleza única, as vistas panorâmicas dos arredores são espetaculares. Passeie pelos jardins exuberantes e explore cada detalhe desta joia histórica. É impossível não se sentir inspirado pela grandiosidade do lugar.",
+      "mainAnchor": {
+          "children": "Leia mais",
+          "href": "https://www.pingodoce.pt/receitas/coleccoes/pratos-portugueses/",
+          "target": "_blank"
+        }
+    }
+  ]

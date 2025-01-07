@@ -1,0 +1,46 @@
+[
+    {
+    "statusLabel": "success",
+      "title": "Azulejos Portugueses",
+      "pillLabel": "Curiosidade",
+      "description": "Portugal é conhecido pelos seus azulejos coloridos que decoram igrejas, edifícios e até estações de trem. Esses azulejos não são apenas arte, mas também contam histórias e refletem a cultura e história do país.",
+      "mainAnchor": {
+          "children": "Leia mais",
+          "href": "https://www.pingodoce.pt/receitas/coleccoes/pratos-portugueses/",
+          "target": "_blank"
+        }
+    },
+    {
+      "statusLabel": "success",
+      "title": "Ponte 25 de Abril",
+      "pillLabel": "Curiosidade",
+      "description": "A Ponte 25 de Abril, em Lisboa, é muitas vezes comparada à Golden Gate, em São Francisco, devido ao seu design similar. É um marco icônico que conecta Lisboa à margem sul do rio Tejo.",
+      "mainAnchor": {
+          "children": "Leia mais",
+          "href": "https://www.pingodoce.pt/receitas/coleccoes/pratos-portugueses/",
+          "target": "_blank"
+        }
+    },
+    {
+      "statusLabel": "success",
+      "title": "Vinho do Porto",
+      "pillLabel": "Curiosidade",
+      "description": "Portugal é famoso pela produção do Vinho do Porto, um vinho fortificado que é produzido exclusivamente na região do Douro. É exportado para o mundo inteiro e possui um sabor rico e único.",
+      "mainAnchor": {
+          "children": "Leia mais",
+          "href": "https://www.pingodoce.pt/receitas/coleccoes/pratos-portugueses/",
+          "target": "_blank"
+        }
+    },
+    {
+      "statusLabel": "success",
+      "title": "Alfama e o Fado",
+      "pillLabel": "Curiosidade",
+      "description": "O bairro de Alfama, em Lisboa, é o berço do Fado, a música melancólica que é Patrimônio Cultural Imaterial da Humanidade. Suas ruas estreitas e casas antigas oferecem uma experiência autêntica e nostálgica.",
+      "mainAnchor": {
+          "children": "Leia mais",
+          "href": "https://www.pingodoce.pt/receitas/coleccoes/pratos-portugueses/",
+          "target": "_blank"
+        }
+    }
+  ]
